@@ -23,5 +23,6 @@ The basic steps of the BFS algorithm are as follows:
 
 It is important to note that BFS will always find the shortest path to a node in an unweighted graph.
 
-![image](https://user-images.githubusercontent.com/114533891/212447940-6385fdb6-1a1b-48d8-a780-7088b152b773.png)
+<img width="796" alt="graph" src="https://user-images.githubusercontent.com/114533891/212448008-f5ab0cf8-9aa6-45e1-a241-15d5cdfc2570.png">
+
 
