@@ -33,6 +33,7 @@ You can run it by doing:  ./run "nameofyourtxtfile"
 
 # Screenshots
 Just a quick representation of the graph with an adjaceny list.
+
 ![image](https://user-images.githubusercontent.com/114533891/212448255-bfa44b92-cea5-4741-a2c3-aa8da219a5cd.png)
 
 After running the program a graph.dot will pop up and whatever is in that file just paste it in http://webgraphviz.com/ to see a visual represenation as seen below:
