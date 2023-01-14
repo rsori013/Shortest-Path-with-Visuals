@@ -38,6 +38,7 @@ Just a quick representation of the graph with an adjaceny list.
 
 After running the program a graph.dot will pop up with the rest of the files and whatever is in that file just paste it in http://webgraphviz.com/ to see a visual represenation as seen below:
 This is what the the graph.dot will look like: 
+
 ![image](https://user-images.githubusercontent.com/114533891/212448375-ca749f9a-d8a5-41cf-8348-9a9d771212da.png)
 
 
