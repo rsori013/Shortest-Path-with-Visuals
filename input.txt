@@ -1,0 +1,37 @@
+10
+25
+Mexico
+USA
+Philippines
+Korea
+Japan
+France
+Egypt
+Afghanistan
+Denmark
+Maldives
+USA Korea
+Egypt Korea
+Japan Philippines
+Japan Mexico
+Afghanistan Philippines
+Philippines Mexico
+Mexico Philippines
+USA Egypt
+Philippines USA
+Mexico Korea
+France USA
+Korea USA
+Philippines France
+Mexico Japan
+Japan Egypt
+France Japan
+France Mexico
+Afghanistan USA
+Philippines Afghanistan
+Afghanistan Egypt
+Demark Maldives
+Maldives Philippines
+Denmark France
+Japan Maldives
+Egypt Denmark

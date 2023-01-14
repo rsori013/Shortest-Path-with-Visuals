@@ -1,0 +1,43 @@
+digraph G {
+
+rankdir="LR";
+
+// nodes
+Mexico [label="Mexico (0)"];
+USA [label="USA (2)"];
+Philippines [label="Philippines (1)"];
+Korea [label="Korea (1)"];
+Japan [label="Japan (1)"];
+France [label="France (2)"];
+Egypt [label="Egypt (2)"];
+Afghanistan [label="Afghanistan (2)"];
+Denmark [label="Denmark (3)"];
+Maldives [label="Maldives (1)"];
+
+// edges
+Mexico->Philippines [style=bold];
+Mexico->Korea [style=bold];
+Mexico->Japan [style=bold];
+Mexico->Maldives [style=bold];
+USA->Korea [style=dotted];
+USA->Egypt [style=dotted];
+Philippines->Mexico [style=dotted];
+Philippines->USA [style=bold];
+Philippines->France [style=bold];
+Philippines->Afghanistan [style=bold];
+Korea->USA [style=dotted];
+Japan->Philippines [style=dotted];
+Japan->Mexico [style=dotted];
+Japan->Egypt [style=bold];
+Japan->Maldives [style=dotted];
+France->USA [style=dotted];
+France->Japan [style=dotted];
+France->Mexico [style=dotted];
+Egypt->Korea [style=dotted];
+Egypt->Denmark [style=bold];
+Afghanistan->Philippines [style=dotted];
+Afghanistan->USA [style=dotted];
+Afghanistan->Egypt [style=dotted];
+Denmark->France [style=dotted];
+Maldives->Philippines [style=dotted];
+}
