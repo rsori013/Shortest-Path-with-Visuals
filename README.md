@@ -23,6 +23,20 @@ The basic steps of the BFS algorithm are as follows:
 
 It is important to note that BFS will always find the shortest path to a node in an unweighted graph.
 
-<img width="796" alt="graph" src="https://user-images.githubusercontent.com/114533891/212448008-f5ab0cf8-9aa6-45e1-a241-15d5cdfc2570.png">
+ > ## How to run it?
+g++ main.cpp -o run
+./run input.txt
+
+You can also make your own data in a txt file. The first number in the txt file is the number of nodes, the second number is the number of edges and the rest are the connections between a node to another.
+
+You can run it by doing:  ./run "nameofyourtxtfile"
+
+# Screenshots
+Just a quick representation of the graph with an adjaceny list.
+![image](https://user-images.githubusercontent.com/114533891/212448255-bfa44b92-cea5-4741-a2c3-aa8da219a5cd.png)
+
+After running the program a graph.dot will pop up and whatever is in that file just paste it in http://webgraphviz.com/ to see a visual represenation as seen below:
+
+<p align="center"><img width="796" alt="graph" src="https://user-images.githubusercontent.com/114533891/212448008-f5ab0cf8-9aa6-45e1-a241-15d5cdfc2570.png">
 
 
